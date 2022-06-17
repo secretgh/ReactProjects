@@ -137,3 +137,58 @@ function op(opCode, left, right){
             return Math.pow(right,left);
     }
 }
+
+function printTree(tree, height){
+    const map = mapTreeNode(tree, height);
+    let string = "";
+    for(let i = height; i > 0; i--){
+        let a = map.get(i);
+        let padding = " ".repeat((height-1)*1.5);
+        for(let j = 0; j < a.length; j++){
+            if(a.length == 1){
+                string += " ";
+            }
+            string += padding + a[j]+" ";
+        }
+        string += "\n";
+        height--;
+    }
+    return string;
+}
+
+function mapTreeNode(tree, height){
+    const map = new Map();
+    for(let i = height; i > 0; i--){
+        map.set(i, []);
+    }
+    recTraverse(tree, map, height);
+    for(let i = height; i > 0; i--){
+        console.log(map.get(i));
+    }
+    return map;
+}
+
+function recTraverse(tree, map, height){
+    if(tree.left === null && tree.right === null){
+        map.get(height).push(tree.value);
+        return;
+    }
+
+    if(tree.left !== null){
+        recTraverse(tree.left, map, height-1);
+    }
+    if(tree.right !== null){
+        recTraverse(tree.right, map, height-1);
+    }
+
+    map.get(height).push(tree.value);
+}
+
+function heightOfTree(tree){
+    if(tree === null){
+        return 0;
+    }
+    let left = heightOfTree(tree.left);
+    let right = heightOfTree(tree.right);
+    return Math.max(left,right)+1;
+}

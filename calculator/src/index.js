@@ -2,7 +2,19 @@ import React from "react";
 import ReactDOM  from "react-dom/client";
 import * as tree from "./tree.js";
 
-tree.buildTree("A+(B*C+D)/E");
+class calculator extends React.Component{
+    constructor(props){
+
+    }
+
+    render(){
+        
+        return (
+            <></>
+        );
+    };
+}
+
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
     <React.StrictMode>
