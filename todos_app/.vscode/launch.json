@@ -1,0 +1,36 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Frontend Broswer",
+            "url": "http://localhost:3000",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "name": "Backend Browser",
+            "request": "launch",
+            "type": "chrome",
+            "url": "http://localhost:5250/Swagger",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "name": "Backend API Start",
+            "type": "PowerShell",
+            "request": "launch",
+            "script": "dotnet run",
+            "cwd": "${cwd}/netapi-todos",
+            "postDebugTask": "Stop API"
+        },
+        {
+            "command": "cd react-todo;npm start",
+            "name": "Frontend App Start",
+            "request": "launch",
+            "type": "node-terminal"
+        }
+    ]
+}
