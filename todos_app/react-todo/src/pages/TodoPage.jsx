@@ -4,7 +4,7 @@ import TodoForm from '../components/TodoForm';
 
 const TodoPage = () => {
   const { id } = useParams();
-  const [form, setForm] = useState({ title: '', description: '' });
+  const [form, setForm] = useState({ id: -1, description: '', done: false});
   const navigate = useNavigate();
 
   useEffect(() => {
@@ -20,6 +20,7 @@ const TodoPage = () => {
     e.preventDefault();
     const method = id ? 'PUT' : 'POST';
     const url = id ? `http://localhost:5250/todos/${id}` : 'http://localhost:5250/todos';
+    console.log(JSON.stringify(form))
     fetch(url, {
       method,
       headers: { 'Content-Type': 'application/json' },

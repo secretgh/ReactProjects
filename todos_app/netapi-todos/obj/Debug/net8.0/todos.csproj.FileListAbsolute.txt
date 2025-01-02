@@ -66,3 +66,41 @@ C:\Users\NBP603\OneDrive - New Brunswick Power Corporation\Desktop\todos_app\net
 C:\Users\NBP603\OneDrive - New Brunswick Power Corporation\Desktop\todos_app\netapi-todos\obj\Debug\net8.0\todos.pdb
 C:\Users\NBP603\OneDrive - New Brunswick Power Corporation\Desktop\todos_app\netapi-todos\obj\Debug\net8.0\todos.genruntimeconfig.cache
 C:\Users\NBP603\OneDrive - New Brunswick Power Corporation\Desktop\todos_app\netapi-todos\obj\Debug\net8.0\ref\todos.dll
+C:\Users\graha\Documents\App Projects\React-Projects\todos_app\netapi-todos\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\graha\Documents\App Projects\React-Projects\todos_app\netapi-todos\bin\Debug\net8.0\appsettings.json
+C:\Users\graha\Documents\App Projects\React-Projects\todos_app\netapi-todos\bin\Debug\net8.0\todos.json
+C:\Users\graha\Documents\App Projects\React-Projects\todos_app\netapi-todos\bin\Debug\net8.0\todos.staticwebassets.endpoints.json
+C:\Users\graha\Documents\App Projects\React-Projects\todos_app\netapi-todos\bin\Debug\net8.0\todos.exe
+C:\Users\graha\Documents\App Projects\React-Projects\todos_app\netapi-todos\bin\Debug\net8.0\todos.deps.json
+C:\Users\graha\Documents\App Projects\React-Projects\todos_app\netapi-todos\bin\Debug\net8.0\todos.runtimeconfig.json
+C:\Users\graha\Documents\App Projects\React-Projects\todos_app\netapi-todos\bin\Debug\net8.0\todos.dll
+C:\Users\graha\Documents\App Projects\React-Projects\todos_app\netapi-todos\bin\Debug\net8.0\todos.pdb
+C:\Users\graha\Documents\App Projects\React-Projects\todos_app\netapi-todos\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\graha\Documents\App Projects\React-Projects\todos_app\netapi-todos\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\graha\Documents\App Projects\React-Projects\todos_app\netapi-todos\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\graha\Documents\App Projects\React-Projects\todos_app\netapi-todos\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\graha\Documents\App Projects\React-Projects\todos_app\netapi-todos\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\graha\Documents\App Projects\React-Projects\todos_app\netapi-todos\obj\Debug\net8.0\todos.csproj.AssemblyReference.cache
+C:\Users\graha\Documents\App Projects\React-Projects\todos_app\netapi-todos\obj\Debug\net8.0\todos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\graha\Documents\App Projects\React-Projects\todos_app\netapi-todos\obj\Debug\net8.0\todos.AssemblyInfoInputs.cache
+C:\Users\graha\Documents\App Projects\React-Projects\todos_app\netapi-todos\obj\Debug\net8.0\todos.AssemblyInfo.cs
+C:\Users\graha\Documents\App Projects\React-Projects\todos_app\netapi-todos\obj\Debug\net8.0\todos.csproj.CoreCompileInputs.cache
+C:\Users\graha\Documents\App Projects\React-Projects\todos_app\netapi-todos\obj\Debug\net8.0\todos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\graha\Documents\App Projects\React-Projects\todos_app\netapi-todos\obj\Debug\net8.0\todos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\graha\Documents\App Projects\React-Projects\todos_app\netapi-todos\obj\Debug\net8.0\todos.sourcelink.json
+C:\Users\graha\Documents\App Projects\React-Projects\todos_app\netapi-todos\obj\Debug\net8.0\scopedcss\bundle\todos.styles.css
+C:\Users\graha\Documents\App Projects\React-Projects\todos_app\netapi-todos\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\graha\Documents\App Projects\React-Projects\todos_app\netapi-todos\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\graha\Documents\App Projects\React-Projects\todos_app\netapi-todos\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\graha\Documents\App Projects\React-Projects\todos_app\netapi-todos\obj\Debug\net8.0\staticwebassets\msbuild.todos.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\graha\Documents\App Projects\React-Projects\todos_app\netapi-todos\obj\Debug\net8.0\staticwebassets\msbuild.todos.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\graha\Documents\App Projects\React-Projects\todos_app\netapi-todos\obj\Debug\net8.0\staticwebassets\msbuild.build.todos.props
+C:\Users\graha\Documents\App Projects\React-Projects\todos_app\netapi-todos\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.todos.props
+C:\Users\graha\Documents\App Projects\React-Projects\todos_app\netapi-todos\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.todos.props
+C:\Users\graha\Documents\App Projects\React-Projects\todos_app\netapi-todos\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\graha\Documents\App Projects\React-Projects\todos_app\netapi-todos\obj\Debug\net8.0\todos.csproj.Up2Date
+C:\Users\graha\Documents\App Projects\React-Projects\todos_app\netapi-todos\obj\Debug\net8.0\todos.dll
+C:\Users\graha\Documents\App Projects\React-Projects\todos_app\netapi-todos\obj\Debug\net8.0\refint\todos.dll
+C:\Users\graha\Documents\App Projects\React-Projects\todos_app\netapi-todos\obj\Debug\net8.0\todos.pdb
+C:\Users\graha\Documents\App Projects\React-Projects\todos_app\netapi-todos\obj\Debug\net8.0\todos.genruntimeconfig.cache
+C:\Users\graha\Documents\App Projects\React-Projects\todos_app\netapi-todos\obj\Debug\net8.0\ref\todos.dll

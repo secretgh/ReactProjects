@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "P9v/k1qt5o2NsKHS2CcATEKIC3bK2B1uFBoNs7OXxQ0=",
+  "Hash": "mOaWyht2A/8aCPA99BUDKokNFGOX3Frb8H+HJ9wnuXM=",
   "Source": "todos",
   "BasePath": "_content/todos",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

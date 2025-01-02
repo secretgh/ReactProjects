@@ -81,6 +81,15 @@ app.MapPut("/todos",
     return null;
 }).RequireCors(corsPolicyName);
 
+app.MapPut("/todos/{id}",
+(Todo t) =>{
+    if(DB != null){
+        return DB.UpdateTodo(t);
+    }
+    return null;
+}
+).RequireCors(corsPolicyName);
+
 //[DELETE]
 app.MapDelete("/todos/{id}", 
 (int id) => {
